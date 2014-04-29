@@ -1,0 +1,15 @@
+{
+    "title": "Google Analytics",
+    "version": "1.00",
+    "name": "GoogleAnalytics",
+    "description": "Google Analytics Example Plugin",
+    "author": "ImpressPages",
+    "options": [
+        {
+            "label": "Tracking ID",
+            "name": "trackingId",
+            "type": "text",
+            "default": "UA-00000000-0"
+        }
+    ]
+}

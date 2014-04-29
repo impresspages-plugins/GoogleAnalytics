@@ -1,4 +1,4 @@
 GoogleAnalytics
 ===============
 
-Example Google Analytics plugin
+Example Google Analytics plugin.
