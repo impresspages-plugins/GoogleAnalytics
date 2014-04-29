@@ -1,4 +1,4 @@
-GoogleAnalytics
-===============
+Example Google Analytics Plugin
+===============================
 
-Example Google Analytics plugin.
+Uses plugin options to enter Google Analytics Tracking ID.
