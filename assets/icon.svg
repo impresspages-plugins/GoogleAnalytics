@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M100,94c0,3.313-2.687,6-6,6H6c-3.313,0-6-2.687-6-6V6c0-3.313,2.687-6,6-6h88c3.313,0,6,2.687,6,6V94z"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_2_);">
+		<polygon style="fill:#F59731;" points="-11,75 19,50 48,68 80,25 110,41 107,1 99,-5 2,-3 -5,15 		"/>
+		<polygon style="fill:#EE592F;" points="-15,77 16,51 45,68 77,24 106,40 104,101 -5,101 		"/>
+		<polyline style="fill:none;stroke:#FFFFFF;stroke-width:6;stroke-miterlimit:10;" points="-8,72 16,50 46,68 78,22 104,37 		"/>
+		<circle style="fill:#FFFFFF;" cx="78" cy="22" r="10"/>
+		<circle style="fill:#FFFFFF;" cx="47" cy="67" r="10"/>
+		<circle style="fill:#FFFFFF;" cx="16" cy="51" r="10"/>
+	</g>
+</g>
+</svg>
