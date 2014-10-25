@@ -2,7 +2,7 @@
     "title": "Google Analytics",
     "version": "1.01",
     "name": "GoogleAnalytics",
-    "description": "Google Analytics Example Plugin",
+    "description": "Google Analytics plugin",
     "author": "ImpressPages",
     "options": [
         {

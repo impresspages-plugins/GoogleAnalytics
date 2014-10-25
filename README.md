@@ -1,4 +1,4 @@
-Example Google Analytics Plugin
+Google Analytics Plugin
 ===============================
 
-Uses plugin options to enter Google Analytics Tracking ID.
+Uses plugin set-up Google Analytics tracking
