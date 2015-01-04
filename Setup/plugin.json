@@ -1,6 +1,6 @@
 {
     "title": "Google Analytics",
-    "version": "1.01",
+    "version": "2.00",
     "name": "GoogleAnalytics",
     "description": "Google Analytics plugin",
     "author": "ImpressPages",
@@ -10,6 +10,13 @@
             "name": "trackingId",
             "type": "text",
             "default": "UA-00000000-0"
+        },
+        {
+            "label": "Domain (optional)",
+            "name": "domain",
+            "type": "text",
+            "default": "",
+            "note": "Enter only if your tracking code domain doesn't match website's domain. That may happen if your website runs under serveral subdomains. In that case enter: .example.com"
         }
     ]
 }
