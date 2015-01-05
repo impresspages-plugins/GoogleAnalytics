@@ -33,14 +33,14 @@ class Event
         if(!empty($_SESSION['GoogleAnalytics']['trackPageview']) && is_array($_SESSION['GoogleAnalytics']['trackPageview'])) {
             foreach($_SESSION['GoogleAnalytics']['trackPageview'] as $key => $path) {
                 $script = ipView('view/pageview.php', array('path' => $path))->render();
-                ipAddJsContent('GoogleAnalaytcs_pageview_' . $key, $script);
+                ipAddJsContent('GoogleAnalaytics_pageview_' . $key, $script);
             }
         }
 
         if(!empty($_SESSION['GoogleAnalytics']['trackEvent']) && is_array($_SESSION['GoogleAnalytics']['trackEvent'])) {
             foreach($_SESSION['GoogleAnalytics']['trackEvent'] as $key => $params) {
                 $script = ipView('view/event.php', $params)->render();
-                ipAddJsContent('GoogleAnalaytcs_event_' . $key, $script);
+                ipAddJsContent('GoogleAnalaytics_event_' . $key, $script);
             }
         }
 
