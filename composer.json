@@ -1,5 +1,5 @@
 {
-  "name": "impresspages/plugin-googleanalytics",
+  "name": "impresspages/plugin-google-analytics",
   "version": "2.00",
   "autoload": {
     "psr-4": {"Plugin\\GoogleAnalytics\\": "/"}
